@@ -18,7 +18,7 @@ class Register extends React.Component {
 
   register = () => {
 
-    axios.post('http://localhost:2000/register', {
+    axios.post('http://localhost:3001/register', {
       username: this.state.username,
       password: this.state.password,
     }).then((res) => {
@@ -87,7 +87,7 @@ class Register extends React.Component {
             disabled={this.state.username == '' && this.state.password == ''}
             onClick={this.register}
           >
-            Register
+            Submit
           </Button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <Link
             // href="/"
@@ -97,7 +97,7 @@ class Register extends React.Component {
               this.props.navigate("/");
             }}
           >
-            Login
+            Update
           </Link>
         </div>
       </div>

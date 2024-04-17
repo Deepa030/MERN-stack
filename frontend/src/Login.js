@@ -87,7 +87,7 @@ class Login extends React.Component {
               this.props.navigate("/register");
             }}
           >
-            Register
+            Login
           </Link>
         </div>
       </div>

@@ -427,12 +427,15 @@ class Dashboard extends Component {
           <Table aria-label="simple table">
             <TableHead>
               <TableRow>
-                <TableCell align="center">Name</TableCell>
+                <TableCell align="center">Unique id</TableCell>
                 <TableCell align="center">Image</TableCell>
-                <TableCell align="center">Description</TableCell>
-                <TableCell align="center">Price</TableCell>
-                <TableCell align="center">Discount</TableCell>
-                <TableCell align="center">Action</TableCell>
+                <TableCell align="center">Name</TableCell>
+                <TableCell align="center">Email</TableCell>
+                <TableCell align="center">Mobile No</TableCell>
+                <TableCell align="center">Desig</TableCell>
+                <TableCell align="center">Gender</TableCell>
+                <TableCell align="center">Course</TableCell>
+                <TableCell align="center">Created DAte</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>

@@ -1,4 +1,4 @@
-# MERN Stack | Login, Registration and CRUD app - For Beginners
+# MERN Stack | Login, Registration page
 
 ## 🔆 🍃 Nodejs(Express.js) + mongoDB + mongoose + JWT + react.js + material-ui + axios(API call)
 
@@ -54,7 +54,3 @@ To run react frontend
 
 ### Product Pagination screen
 [![dashboard](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png)](https://github.com/FSojitra/Registration-Login-and-CRUD-Action-using-MERN-stack/blob/master/dashboard.png) -->
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
